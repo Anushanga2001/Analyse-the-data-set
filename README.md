@@ -1,3 +1,7 @@
-# Analyse-the-data-set
-This provide information about the undergraduates.
-According to the data set , predict that student will get a job or not?
+# Project overview
+Core Technical Stack:
+
+Programming Language: Python
+Data Processing: Pandas, NumPy
+Data Visualization: Matplotlib, Seaborn, Plotly
+Development Environment: Jupyter Notebook
