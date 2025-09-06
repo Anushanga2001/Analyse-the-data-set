@@ -1,10 +1,10 @@
 # Project overview
-Core Technical Stack:
+* Core Technical Stack:
 
-Programming Language: Python
+* Programming Language: Python
 
-Data Processing: Pandas, NumPy
+* Data Processing: Pandas, NumPy
 
-Data Visualization: Matplotlib, Seaborn, Plotly
+* Data Visualization: Matplotlib, Seaborn, Plotly
 
-Development Environment: Jupyter Notebook
+* Development Environment: Jupyter Notebook
